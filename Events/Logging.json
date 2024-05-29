@@ -1,3 +1,20 @@
 {
-  "logs": []
+  "logs": [
+    {
+      "timestamp": "2024-05-29T11:27:02.897Z",
+      "$type": "allocation",
+      "id": 64733472,
+      "client": 2147046,
+      "provider": 2234029,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020e5c7bd4f9371f8cd0fd5112a136cb005a646c6aa804a36518a46a79ea3b65000"
+      },
+      "piece-size": 68719476736,
+      "term-min": 691200,
+      "term-max": 950400,
+      "expiration": 3970249,
+      "address": "f1vpw4de33zpolipdzx6q7zxx44ayrniqkknntbby"
+    }
+  ]
 }
