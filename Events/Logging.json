@@ -1743,6 +1743,294 @@
       "term-max": 1296000,
       "expiration": 3996388,
       "address": "f1w5memggihjlq3p3puz52j57iyieb3vtvqht2fva"
+    },
+    {
+      "timestamp": "2024-05-29T11:28:54.938Z",
+      "$type": "allocation",
+      "id": 64733621,
+      "client": 3094032,
+      "provider": 3074583,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020dcc6585de32c04820155c5d26fc0a138eb2ce82d7ffd6de63d413aceb613152e"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1036800,
+      "term-max": 1296000,
+      "expiration": 3998010,
+      "address": "f1wy6ik2ns5oypb4yx6uhuf55hxbzihugg674jzvi"
+    },
+    {
+      "timestamp": "2024-05-29T11:28:54.938Z",
+      "$type": "allocation",
+      "id": 64733622,
+      "client": 3094032,
+      "provider": 3074583,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020fdc19f6a58702d24d0cb482727db75da811db1b0cb1b06bafeff06dc3ad1a21c"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1036800,
+      "term-max": 1296000,
+      "expiration": 3998010,
+      "address": "f1wy6ik2ns5oypb4yx6uhuf55hxbzihugg674jzvi"
+    },
+    {
+      "timestamp": "2024-05-29T11:28:54.938Z",
+      "$type": "allocation",
+      "id": 64733623,
+      "client": 3094032,
+      "provider": 3074583,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e2039220204a2d81f0c8d15daaa377d882b9bd9e588d074f626f27b69612596e5a260a8216"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1036800,
+      "term-max": 1296000,
+      "expiration": 3998010,
+      "address": "f1wy6ik2ns5oypb4yx6uhuf55hxbzihugg674jzvi"
+    },
+    {
+      "timestamp": "2024-05-29T11:28:54.938Z",
+      "$type": "allocation",
+      "id": 64733624,
+      "client": 3094032,
+      "provider": 3074583,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e20392202089eeb8c9921d54134e3e6a9e19d0990afd2b6d06b8147a380192dfebb493f032"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1036800,
+      "term-max": 1296000,
+      "expiration": 3998010,
+      "address": "f1wy6ik2ns5oypb4yx6uhuf55hxbzihugg674jzvi"
+    },
+    {
+      "timestamp": "2024-05-29T11:28:54.938Z",
+      "$type": "allocation",
+      "id": 64733625,
+      "client": 3094032,
+      "provider": 3074583,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e2039220205b5c82578668b711103e288cb9eea292d7c3386043639df05e7b526cd4810a33"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1036800,
+      "term-max": 1296000,
+      "expiration": 3998010,
+      "address": "f1wy6ik2ns5oypb4yx6uhuf55hxbzihugg674jzvi"
+    },
+    {
+      "timestamp": "2024-05-29T11:28:54.938Z",
+      "$type": "allocation",
+      "id": 64733626,
+      "client": 3094032,
+      "provider": 3074583,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e20392202038a746db542857c379250256387ab9ceebddd91292b7c2f17a6a6f0344a3e413"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1036800,
+      "term-max": 1296000,
+      "expiration": 3998010,
+      "address": "f1wy6ik2ns5oypb4yx6uhuf55hxbzihugg674jzvi"
+    },
+    {
+      "timestamp": "2024-05-29T11:28:54.938Z",
+      "$type": "allocation",
+      "id": 64733627,
+      "client": 3094032,
+      "provider": 3074583,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e2039220209c5da7f71339db1ed59fe64e6ef2a5513113275ceccccbb8a460daf058e4713e"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1036800,
+      "term-max": 1296000,
+      "expiration": 3998010,
+      "address": "f1wy6ik2ns5oypb4yx6uhuf55hxbzihugg674jzvi"
+    },
+    {
+      "timestamp": "2024-05-29T11:28:54.938Z",
+      "$type": "allocation",
+      "id": 64733628,
+      "client": 3094032,
+      "provider": 3074583,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020a642c6d1f35543526db73d556190f4e4831fcf40c6e7c08e9d5be59838ae4f34"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1036800,
+      "term-max": 1296000,
+      "expiration": 3998010,
+      "address": "f1wy6ik2ns5oypb4yx6uhuf55hxbzihugg674jzvi"
+    },
+    {
+      "timestamp": "2024-05-29T11:28:54.938Z",
+      "$type": "allocation",
+      "id": 64733629,
+      "client": 3094032,
+      "provider": 3074583,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e2039220209cfd2a7685b4924fd557ae4ce96db7672858e504fc75b0f30435a160f50ddb1d"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1036800,
+      "term-max": 1296000,
+      "expiration": 3998010,
+      "address": "f1wy6ik2ns5oypb4yx6uhuf55hxbzihugg674jzvi"
+    },
+    {
+      "timestamp": "2024-05-29T11:28:54.938Z",
+      "$type": "allocation",
+      "id": 64733630,
+      "client": 3094032,
+      "provider": 3074583,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e20392202007bb4bcc71447eacc941b28beed37f124b1193858bf0e9748badf36c88b35631"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1036800,
+      "term-max": 1296000,
+      "expiration": 3998010,
+      "address": "f1wy6ik2ns5oypb4yx6uhuf55hxbzihugg674jzvi"
+    },
+    {
+      "timestamp": "2024-05-29T11:28:54.938Z",
+      "$type": "allocation",
+      "id": 64733631,
+      "client": 3094032,
+      "provider": 3074583,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020683c1d528dbb332c1e20cf38428ae228b7a1281d989d1fd0a6020c8f9871e03a"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1036800,
+      "term-max": 1296000,
+      "expiration": 3998010,
+      "address": "f1wy6ik2ns5oypb4yx6uhuf55hxbzihugg674jzvi"
+    },
+    {
+      "timestamp": "2024-05-29T11:28:54.938Z",
+      "$type": "allocation",
+      "id": 64733632,
+      "client": 3094032,
+      "provider": 3074583,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020bb8d8fdd078f22b1bee6de3797a1adbd05aebb6d05a7472f79b6bc00332d8f14"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1036800,
+      "term-max": 1296000,
+      "expiration": 3998010,
+      "address": "f1wy6ik2ns5oypb4yx6uhuf55hxbzihugg674jzvi"
+    },
+    {
+      "timestamp": "2024-05-29T11:28:54.938Z",
+      "$type": "allocation",
+      "id": 64733633,
+      "client": 3094032,
+      "provider": 3074583,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e2039220204de357db851b0c85959bd799be9ca8ed2117b8038ac04d2cb815d729d22ec108"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1036800,
+      "term-max": 1296000,
+      "expiration": 3998010,
+      "address": "f1wy6ik2ns5oypb4yx6uhuf55hxbzihugg674jzvi"
+    },
+    {
+      "timestamp": "2024-05-29T11:28:54.938Z",
+      "$type": "allocation",
+      "id": 64733634,
+      "client": 3094032,
+      "provider": 3074583,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020b8e26c407c9fef79ab0007a9421fac77237d413a290270ef5f0350c2061c690e"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1036800,
+      "term-max": 1296000,
+      "expiration": 3998010,
+      "address": "f1wy6ik2ns5oypb4yx6uhuf55hxbzihugg674jzvi"
+    },
+    {
+      "timestamp": "2024-05-29T11:28:54.938Z",
+      "$type": "allocation",
+      "id": 64733635,
+      "client": 3094032,
+      "provider": 3074583,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020f1db5856edd48f8be76cb5aa3dd0619dc2fcb8a4caa520cc02db8841e46f8f08"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1036800,
+      "term-max": 1296000,
+      "expiration": 3998010,
+      "address": "f1wy6ik2ns5oypb4yx6uhuf55hxbzihugg674jzvi"
+    },
+    {
+      "timestamp": "2024-05-29T11:28:54.938Z",
+      "$type": "allocation",
+      "id": 64733636,
+      "client": 3094032,
+      "provider": 3074583,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020d0573538b391b9c1c14cc40f2312f7589450ce5306c6191767ffa59af4750b32"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1036800,
+      "term-max": 1296000,
+      "expiration": 3998010,
+      "address": "f1wy6ik2ns5oypb4yx6uhuf55hxbzihugg674jzvi"
+    },
+    {
+      "timestamp": "2024-05-29T11:28:54.938Z",
+      "$type": "allocation",
+      "id": 64733637,
+      "client": 3094032,
+      "provider": 3074583,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020f1de1402f8c8a6d22438ab92b238462a0e42963e2e76089f0bb85265e0000e33"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1036800,
+      "term-max": 1296000,
+      "expiration": 3998010,
+      "address": "f1wy6ik2ns5oypb4yx6uhuf55hxbzihugg674jzvi"
+    },
+    {
+      "timestamp": "2024-05-29T11:28:54.938Z",
+      "$type": "allocation",
+      "id": 64733638,
+      "client": 3094032,
+      "provider": 3074583,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e20392202033eafb4fb31a6c9f8dae21fce397fc02bfb1abbe925d86ca3260aeee35bbcd2a"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1036800,
+      "term-max": 1296000,
+      "expiration": 3998010,
+      "address": "f1wy6ik2ns5oypb4yx6uhuf55hxbzihugg674jzvi"
     }
   ]
 }
