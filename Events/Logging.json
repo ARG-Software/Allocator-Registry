@@ -2031,6 +2031,134 @@
       "term-max": 1296000,
       "expiration": 3998010,
       "address": "f1wy6ik2ns5oypb4yx6uhuf55hxbzihugg674jzvi"
+    },
+    {
+      "timestamp": "2024-05-29T11:36:15.999Z",
+      "$type": "allocation",
+      "id": 64734702,
+      "client": 3065619,
+      "provider": 3086293,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020cd20d384950f86e5db6fd3bb3e4c57d1a390de8a8fb0c7d4126984947fa3f921"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1523000,
+      "term-max": 1782200,
+      "expiration": 3981339,
+      "address": "f1nqded3y6ep6hssouvq5iyvud7rj2dku6b7vndta"
+    },
+    {
+      "timestamp": "2024-05-29T11:36:15.999Z",
+      "$type": "allocation",
+      "id": 64734703,
+      "client": 3065619,
+      "provider": 3086293,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020e5aba3922cd22187591276464d4a69b69bc61c8c56b3b8d501ec641d04eb5317"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1523000,
+      "term-max": 1782200,
+      "expiration": 3981341,
+      "address": "f1nqded3y6ep6hssouvq5iyvud7rj2dku6b7vndta"
+    },
+    {
+      "timestamp": "2024-05-29T11:36:15.999Z",
+      "$type": "allocation",
+      "id": 64734704,
+      "client": 3094032,
+      "provider": 3086293,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020635a9bb57602afd682c1480d245c53048b4a3c0aac4f0874a488b24b0542143f"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1523000,
+      "term-max": 1782200,
+      "expiration": 3982084,
+      "address": "f1wy6ik2ns5oypb4yx6uhuf55hxbzihugg674jzvi"
+    },
+    {
+      "timestamp": "2024-05-29T11:36:15.999Z",
+      "$type": "allocation",
+      "id": 64734705,
+      "client": 3094032,
+      "provider": 3086293,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e2039220205146bb4ab94d5ee6f08664c1db4e93aa92ac316b2786ed042f78e3fe2d9c1814"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1523000,
+      "term-max": 1782200,
+      "expiration": 3982086,
+      "address": "f1wy6ik2ns5oypb4yx6uhuf55hxbzihugg674jzvi"
+    },
+    {
+      "timestamp": "2024-05-29T11:36:15.999Z",
+      "$type": "allocation",
+      "id": 64734706,
+      "client": 3094032,
+      "provider": 3086293,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020274dcd6c94e68d681c47dfdc7afba84f5d2e50a3ab493c2a40f8cf24abb86604"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1523000,
+      "term-max": 1782200,
+      "expiration": 3982088,
+      "address": "f1wy6ik2ns5oypb4yx6uhuf55hxbzihugg674jzvi"
+    },
+    {
+      "timestamp": "2024-05-29T11:36:15.999Z",
+      "$type": "allocation",
+      "id": 64734707,
+      "client": 3094032,
+      "provider": 3086293,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020ae3865fd4938de7e6097dec315ea5f839cf4c1af480b091f5abda72ccf3cd134"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1523000,
+      "term-max": 1782200,
+      "expiration": 3982090,
+      "address": "f1wy6ik2ns5oypb4yx6uhuf55hxbzihugg674jzvi"
+    },
+    {
+      "timestamp": "2024-05-29T11:36:15.999Z",
+      "$type": "allocation",
+      "id": 64734708,
+      "client": 3094032,
+      "provider": 3086293,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e20392202041021e671b94867362673873e98d14ba2350843bbb5540052a6f308c66885b21"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1523000,
+      "term-max": 1782200,
+      "expiration": 3982080,
+      "address": "f1wy6ik2ns5oypb4yx6uhuf55hxbzihugg674jzvi"
+    },
+    {
+      "timestamp": "2024-05-29T11:36:15.999Z",
+      "$type": "allocation",
+      "id": 64734709,
+      "client": 3094032,
+      "provider": 3086293,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020fba7a2f4135a8ca7b127852f5b9a260fe61b8cd36a3728d330dc12b3a158f200"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1523000,
+      "term-max": 1782200,
+      "expiration": 3982082,
+      "address": "f1wy6ik2ns5oypb4yx6uhuf55hxbzihugg674jzvi"
     }
   ]
 }
