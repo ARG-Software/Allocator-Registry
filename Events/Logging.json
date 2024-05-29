@@ -3215,6 +3215,134 @@
       "term-max": 1782200,
       "expiration": 3982082,
       "address": "f1wy6ik2ns5oypb4yx6uhuf55hxbzihugg674jzvi"
+    },
+    {
+      "timestamp": "2024-05-29T11:38:05.130Z",
+      "$type": "allocation",
+      "id": 64734808,
+      "client": 3054019,
+      "provider": 3030649,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020220c12978713abd210280fcde9ef241425e646ff69fcb70a0a6d3122b4ba6f25"
+      },
+      "piece-size": 34359738368,
+      "term-min": 518400,
+      "term-max": 777600,
+      "expiration": 3970257,
+      "address": "f1el54ek6oxcef5ypit3s7qcljyl5bea75wgie2ra"
+    },
+    {
+      "timestamp": "2024-05-29T11:38:05.130Z",
+      "$type": "allocation",
+      "id": 64734809,
+      "client": 3054019,
+      "provider": 3030649,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020a5e3af0e62ea1392e8ab7009beb41ac743b4b2f2b8c64d3b722a6e7dc6d5b813"
+      },
+      "piece-size": 34359738368,
+      "term-min": 518400,
+      "term-max": 777600,
+      "expiration": 3970257,
+      "address": "f1el54ek6oxcef5ypit3s7qcljyl5bea75wgie2ra"
+    },
+    {
+      "timestamp": "2024-05-29T11:38:05.130Z",
+      "$type": "allocation",
+      "id": 64734810,
+      "client": 3054019,
+      "provider": 3030649,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e20392202096844216585d22673459e1432e0104b007d0d0c027deeba0ab75c8409ae16622"
+      },
+      "piece-size": 34359738368,
+      "term-min": 518400,
+      "term-max": 777600,
+      "expiration": 3970257,
+      "address": "f1el54ek6oxcef5ypit3s7qcljyl5bea75wgie2ra"
+    },
+    {
+      "timestamp": "2024-05-29T11:38:05.130Z",
+      "$type": "allocation",
+      "id": 64734811,
+      "client": 3054019,
+      "provider": 3030649,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020d95d711a88a6a549dc9c3b87c5bef812d2db604d26ac567f6948c42dd97b5338"
+      },
+      "piece-size": 34359738368,
+      "term-min": 518400,
+      "term-max": 777600,
+      "expiration": 3970257,
+      "address": "f1el54ek6oxcef5ypit3s7qcljyl5bea75wgie2ra"
+    },
+    {
+      "timestamp": "2024-05-29T11:38:05.130Z",
+      "$type": "allocation",
+      "id": 64734812,
+      "client": 3054019,
+      "provider": 3030649,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020984d440c4f33d3ba4fa23b4e477bed1d54fb7b8c8f86e50c087c20fcb3a6d10e"
+      },
+      "piece-size": 34359738368,
+      "term-min": 518400,
+      "term-max": 777600,
+      "expiration": 3970257,
+      "address": "f1el54ek6oxcef5ypit3s7qcljyl5bea75wgie2ra"
+    },
+    {
+      "timestamp": "2024-05-29T11:38:05.130Z",
+      "$type": "allocation",
+      "id": 64734813,
+      "client": 3054019,
+      "provider": 3030649,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020bbf3c3f5568ea7bd3243b1fa347fc50da5a94a3fdb9c4a3288c27ca64acdfd17"
+      },
+      "piece-size": 34359738368,
+      "term-min": 518400,
+      "term-max": 777600,
+      "expiration": 3970257,
+      "address": "f1el54ek6oxcef5ypit3s7qcljyl5bea75wgie2ra"
+    },
+    {
+      "timestamp": "2024-05-29T11:38:05.130Z",
+      "$type": "allocation",
+      "id": 64734814,
+      "client": 3054019,
+      "provider": 3030649,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020f40263a34a8b9370e6b719e3a5b20248fec73e5a68e8a0d6ba967a2f72a1e507"
+      },
+      "piece-size": 34359738368,
+      "term-min": 518400,
+      "term-max": 777600,
+      "expiration": 3970257,
+      "address": "f1el54ek6oxcef5ypit3s7qcljyl5bea75wgie2ra"
+    },
+    {
+      "timestamp": "2024-05-29T11:38:05.130Z",
+      "$type": "allocation",
+      "id": 64734815,
+      "client": 3054019,
+      "provider": 3030649,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e2039220209fc45802b4f97e524ec5789f6f0031d213ce3da5666ad657e80c89f4cd8bc531"
+      },
+      "piece-size": 34359738368,
+      "term-min": 518400,
+      "term-max": 777600,
+      "expiration": 3970257,
+      "address": "f1el54ek6oxcef5ypit3s7qcljyl5bea75wgie2ra"
     }
   ]
 }
