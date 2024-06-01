@@ -7279,6 +7279,22 @@
       "term-max": 1800000,
       "expiration": 3977326,
       "address": "f1ugrcmyl55wm67t4fd53yhv3tbbfb5pnem6cem5a"
+    },
+    {
+      "timestamp": "2024-06-01T00:46:23.192Z",
+      "$type": "allocation",
+      "id": 64915444,
+      "client": 3045127,
+      "provider": 1904546,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e20392202019675fe982101a2536135df6052060f5a645ff9efa98e1ba7faad24ea67cb934"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1526400,
+      "term-max": 1785600,
+      "expiration": 3974908,
+      "address": "f1qwyhtmlfogwajktfabqvhqfxapiqozuxpwirmpa"
     }
   ]
 }
