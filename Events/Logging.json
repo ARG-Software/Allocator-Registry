@@ -7439,6 +7439,134 @@
       "term-max": 1785600,
       "expiration": 3974908,
       "address": "f1qwyhtmlfogwajktfabqvhqfxapiqozuxpwirmpa"
+    },
+    {
+      "timestamp": "2024-06-01T00:47:07.517Z",
+      "$type": "allocation",
+      "id": 64915445,
+      "client": 2046973,
+      "provider": 144194,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020450a76906677183c1962e023d9a13b58b4b8deb998fb1ed7730731bd547c0325"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1540800,
+      "term-max": 1800000,
+      "expiration": 3977315,
+      "address": "f1ugrcmyl55wm67t4fd53yhv3tbbfb5pnem6cem5a"
+    },
+    {
+      "timestamp": "2024-06-01T00:47:07.517Z",
+      "$type": "allocation",
+      "id": 64915446,
+      "client": 2046973,
+      "provider": 144194,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020577c1eee037535b987cbb055f40ed019299da535fb97aec268c0db9e3290732c"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1540800,
+      "term-max": 1800000,
+      "expiration": 3977315,
+      "address": "f1ugrcmyl55wm67t4fd53yhv3tbbfb5pnem6cem5a"
+    },
+    {
+      "timestamp": "2024-06-01T00:47:07.517Z",
+      "$type": "allocation",
+      "id": 64915447,
+      "client": 2046973,
+      "provider": 144194,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020b95e61cacc5b1bdc706a000856b589768b0dbedea76220d0a17148c5c35e0a2e"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1540800,
+      "term-max": 1800000,
+      "expiration": 3977316,
+      "address": "f1ugrcmyl55wm67t4fd53yhv3tbbfb5pnem6cem5a"
+    },
+    {
+      "timestamp": "2024-06-01T00:47:07.517Z",
+      "$type": "allocation",
+      "id": 64915448,
+      "client": 2046973,
+      "provider": 144194,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020a5969801d1c8102d7b299cbdcfbebdc36031cc76d8d5782a759536a975dc6f10"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1540800,
+      "term-max": 1800000,
+      "expiration": 3977316,
+      "address": "f1ugrcmyl55wm67t4fd53yhv3tbbfb5pnem6cem5a"
+    },
+    {
+      "timestamp": "2024-06-01T00:47:07.517Z",
+      "$type": "allocation",
+      "id": 64915449,
+      "client": 2046973,
+      "provider": 144194,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e20392202084975dc0914e8f3cdf0ccd893441b319629c2f06364552d0f16b1b6ead6af335"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1540800,
+      "term-max": 1800000,
+      "expiration": 3977316,
+      "address": "f1ugrcmyl55wm67t4fd53yhv3tbbfb5pnem6cem5a"
+    },
+    {
+      "timestamp": "2024-06-01T00:47:07.517Z",
+      "$type": "allocation",
+      "id": 64915450,
+      "client": 2046973,
+      "provider": 144194,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020fa301d0f24f09a3c74c70e93a4afaaf63a2845a0ead9ce2e9bfe2389bc43d717"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1540800,
+      "term-max": 1800000,
+      "expiration": 3977316,
+      "address": "f1ugrcmyl55wm67t4fd53yhv3tbbfb5pnem6cem5a"
+    },
+    {
+      "timestamp": "2024-06-01T00:47:07.517Z",
+      "$type": "allocation",
+      "id": 64915451,
+      "client": 2046973,
+      "provider": 144194,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e20392202030058c7046e4926e858e2d26941c21e655c5f5167ff3dd6b57f33b82f5268f14"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1540800,
+      "term-max": 1800000,
+      "expiration": 3977317,
+      "address": "f1ugrcmyl55wm67t4fd53yhv3tbbfb5pnem6cem5a"
+    },
+    {
+      "timestamp": "2024-06-01T00:47:07.517Z",
+      "$type": "allocation",
+      "id": 64915452,
+      "client": 2046973,
+      "provider": 144194,
+      "piece-cid": {
+        "tag": 42,
+        "value": "000181e203922020ba2326577829f2147b99514f82f4228c4790f6fced6a0673683768d4f8446235"
+      },
+      "piece-size": 34359738368,
+      "term-min": 1540800,
+      "term-max": 1800000,
+      "expiration": 3977326,
+      "address": "f1ugrcmyl55wm67t4fd53yhv3tbbfb5pnem6cem5a"
     }
   ]
 }
